@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  justify-content: space-between;
+  /* display : flex; */
+}
